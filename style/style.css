@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: 'Android';
-    src: url('/siteandroid/fontes/idroid.otf') format('opentype');
+    src: url('/fontes/idroid.otf') format('opentype');
     font-weight: normal;
 }
 /*Root é raiz da arvore do documento de stylo, tudo que eu definir aqui servira para o documento inteiro*/
@@ -42,12 +42,13 @@ header {
     min-height: 100px;
     text-align: center;
     padding-top: 40px;
+   
 }
 
 
 header > h1 {
     color: white;
-    font-family: var(--fonte-android);
+    font-family: var(--fonte-destaque);
     margin-bottom: 20px;
     font-weight: normal;
     font-size: 3em;
