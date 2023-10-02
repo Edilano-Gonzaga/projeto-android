@@ -7,19 +7,22 @@
     <title>Como surgiu o mascote do android</title>
     <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/media-query.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">
 </head>
-<body>
+<body onresize="mudouTamanho()" >
 
        <header>
         <h1>Curisiodades de Tecnologia</h1>
         <p>Tudo aquilo que você sempre quis saber sobre o mundo Tech, em um único lugar</p>
     </header>
-    <nav>
+        <i id="burguer" class="material-icons" onclick="clickMenu()">menu</i>
+    <menu id="imenu">
         <a href="#">Home</a>
         <a href="#">Noticias</a>
         <a href="#">Contato</a>
     
-    </nav>
+    </menu>
     <main>
         <article>
             <h1>História do Mascote do Android</h1>
@@ -102,5 +105,25 @@
         Site criado para o <a href="https://www.cursoemvideo.com/" target="_blank">curso em video<a>
         </p>
     </footer>
+    <script>
+
+        function mudouTamanho(){
+            if (window.innerWidth >= 768){
+                itens.style.display = 'block'
+            } else {
+                itens.style.display = 'none'
+            }
+
+        }
+
+        
+        function clickMenu(){
+            if (imenu.style.display == 'block'){
+                imenu.style.display = 'none'
+            } else {
+                imenu.style.display = 'block'
+            }
+        }
+    </script>
 </body>
 </html>
