@@ -27,18 +27,11 @@ Ele apresenta de forma clara e concisa a origem do simpático robozinho verde e 
 * **Conteúdo informativo:** Apresenta a história do mascote do Android de forma clara e concisa.
 * **Visualmente atraente:** Utiliza imagens e formatação para tornar a leitura mais agradável.
 
-<h2>## Como Usar</h2>
-
-1. **Clone o repositório:** (Se o projeto estiver hospedado em um repositório, adicione o comando aqui)
-2. **Abra o arquivo index.html:** Abra o arquivo index.html em seu navegador.
-
-<h2>## Contribuições</h2>
-
-Sinta-se à vontade para contribuir com este projeto! Você pode:
-
-* Reportar bugs
-* Sugerir melhorias
-* Criar novos recursos
-
 <h2>## Licença</h2>
 <p>Licença Mit</p>
+
+<h1>Demostração</h1>
+<p>Você pode ver o projeto <a href="https://edilano-gonzaga.github.io/projeto-android/" target="_blank">Clicando aqui</a></p>
+
+<h1>Autor</h1>
+<p>Edilano Melo</p>
