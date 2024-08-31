@@ -3,6 +3,11 @@
 <p>Este projeto é um site informativo que conta a história do mascote do sistema operacional Android. 
 Ele apresenta de forma clara e concisa a origem do simpático robozinho verde e curiosidades sobre as versões do sistema.</p>
 
+<div>
+  <img width="460" height="380" src="imagens/capa-android.png">
+  
+</div>
+
 <h2>## Tecnologias Utilizadas</h2>
 
 * **HTML5:** Estrutura básica da página.
