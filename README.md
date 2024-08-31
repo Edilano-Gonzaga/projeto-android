@@ -4,7 +4,7 @@
 Ele apresenta de forma clara e concisa a origem do simpático robozinho verde e curiosidades sobre as versões do sistema.</p>
 
 <div>
-  <img width="460" height="380" src="imagens/capa-android.png">
+  <img width="100%" height="auto" src="imagens/capa-android.png">
   
 </div>
 
