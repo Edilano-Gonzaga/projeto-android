@@ -3,6 +3,9 @@
 <p>Este projeto é um site informativo que conta a história do mascote do sistema operacional Android. 
 Ele apresenta de forma clara e concisa a origem do simpático robozinho verde e curiosidades sobre as versões do sistema.</p>
 
+<h1>Demostração</h1>
+<p>Você pode ver o projeto <a href="https://edilano-gonzaga.github.io/projeto-android/" target="_blank">Clicando aqui</a></p>
+
 <div>
   <img width="100%" height="auto" src="imagens/capa-android.png">
   
@@ -35,8 +38,7 @@ Ele apresenta de forma clara e concisa a origem do simpático robozinho verde e 
 <h2>## Licença</h2>
 <p>Licença Mit</p>
 
-<h1>Demostração</h1>
-<p>Você pode ver o projeto <a href="https://edilano-gonzaga.github.io/projeto-android/" target="_blank">Clicando aqui</a></p>
+
 
 <h1>Autor</h1>
 <p>Edilano Melo</p>
